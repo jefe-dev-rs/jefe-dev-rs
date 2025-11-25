@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Jeferson Machado
 
 <p align="center">
-  <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="450px" />
+  <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="350px" />
 </p>
 
 ---
