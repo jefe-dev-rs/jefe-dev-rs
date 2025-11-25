@@ -52,14 +52,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontra meus projetos, estudos e 
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=JefersonMachado\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonMachado\&layout=compact\&theme=radical)
-
----
-
 ## 🌐 Contato
 
 * 📧 E-mail: [jefeliriodovales2024@gmail.com](mailto:jefeliriodovales2024@gmail.com)
