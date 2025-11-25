@@ -48,13 +48,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontra meus projetos, estudos e 
 * [ ] Criar mais projetos práticos no GitHub
 * [ ] Contribuir com projetos open-source
 
----
-
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=JefersonMachado\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonMachado\&layout=compact\&theme=radical)
 
 ---
 
@@ -69,5 +62,3 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontra meus projetos, estudos e 
 ✨ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e acompanhar minha evolução.
 
 ---
-
-![Profile Banner](https://cdn.pixabay.com/photo/2017/01/20/00/30/technology-1995775_1280.png)
