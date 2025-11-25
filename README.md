@@ -40,25 +40,9 @@
   <img align="center" alt="Linux" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="AWS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+ 
 </div>
 
----
-
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefe-dev-rs&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefe-dev-rs&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 🐍 Snake Animation (GitHub Contributions)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jefe-dev-rs/jefe-dev-rs/output/github-contribution-grid-snake-dark.svg" />
-</div>
 
 ---
 
