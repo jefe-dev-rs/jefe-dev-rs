@@ -1,41 +1,60 @@
-# 🌟 Jeferson Machado
-
-### *Cloud • DevOps • Front-end • Automação*
-
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Cloud+e+DevOps;Construindo+meu+futuro+na+tecnologia;Sempre+aprendendo+e+evoluindo!" />
+  <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300" />
 </p>
 
----
-
-## 👨‍💻 Sobre mim
-
-* 🎓 Formado em **Administração**
-* 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
-* ☁️ Certificado **AWS Cloud Practitioner** e **AWS re/Start**
-* 📚 Estudando: HTML, CSS, JavaScript, Python, Linux, Git & GitHub
-* 🔧 Focado em: Cloud AWS, DevOps, Automação
-* 🤝 Apaixonado por ajudar iniciantes
+<h1 align="center">👋 Olá, eu sou o Jeferson!</h1>
+<p align="center">Desenvolvedor Front-end em evolução 🚀 | Amante de JavaScript, HTML, CSS e GitHub</p>
 
 ---
 
-## 🎖️ Certificações
+## 🚀 Sobre mim
+
+Sou apaixonado por tecnologia e atualmente focado em me tornar um excelente desenvolvedor **Front-end**.  
+Estudo diariamente **HTML, CSS, JavaScript, Git e GitHub**, buscando evoluir com consistência.  
+Gosto de ajudar outros alunos em comunidades como a **DIO** e registrar meu progresso no GitHub.
+
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div>
+
+---
+
+## 📊 Minhas estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefe-dev-rs&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefe-dev-rs&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🐍 Snake Animation
+
+> *A animação funciona automaticamente se seu arquivo `.github/workflows/snake.yml` já estiver configurado.*
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jefe-dev-rs/jefe-dev-rs/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
+</div>
+
+---
+
+## 🌐 Onde me encontrar
 
 <p align="left">
-  <img src="https://images.credly.com/size/340x340/images/2a42cd18-8b0b-4f43-af10-0f5efc74493a/blob.png" width="120" />
-  <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4b6f-9cee-f81a5b0a8aaa/blob.png" width="120" />
+  <a href="https://www.linkedin.com/in/jeferson-machado" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70"/>
+# 🌟 Jeferson Machado
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70"/>
 </p>
@@ -114,3 +133,15 @@
 ---
 
 # ✨ Obrigado pela visita! Explore meus repositórios e acompanhe minha evolução 🚀
+
+---
+
+## 💬 Mensagem final
+
+> *A jornada na programação é feita de prática, consistência e comunidade.  
+Se você está começando como eu, vamos evoluir juntos!*
+
+---
+
+### ⭐ Se gostou do meu perfil, deixe uma estrela em algum repositório!
+
