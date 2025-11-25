@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontra meus projetos, estudos e 
 * 🎓 Formado em **Administração**
 * 💻 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
 * ☁️ Certificado **AWS Cloud Practitioner** e **AWS re/Start**
-* 📚 Estudando **HTML, CSS, JavaScript**, Git e GitHub
+* 📚 Estudando **HTML, CSS, JavaScript**, Git, GitHub, Python e Linux
 * 🔧 Interessado em **DevOps, Cloud AWS, GitHub Actions** e boas práticas de desenvolvimento
 * 🤝 Curto compartilhar conhecimento e ajudar quem está começando
 
