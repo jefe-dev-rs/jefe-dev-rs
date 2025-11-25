@@ -1,68 +1,116 @@
-<!-- Banner ou GIF de boas-vindas -->
-<img align="right" src="https://cdn.pixabay.com/photo/2017/01/20/00/30/technology-1995775_1280.png" width="250" />
+# 🌟 Jeferson Machado
 
-# 👋 Olá! Eu sou **Jeferson Machado**
+### *Cloud • DevOps • Front-end • Automação*
 
-Bem-vindo ao meu perfil! Aqui compartilho meus estudos, projetos e evolução nas áreas de **Cloud**, **DevOps**, **Front-end** e **Automação**.
-
----
-
-## 🎯 Quem sou eu  
-- 🎓 Formado em **Administração**  
-- 💻 Estudando **ADS – Análise e Desenvolvimento de Sistemas**  
-- ☁️ Certificado **AWS Cloud Practitioner** e **AWS re/Start**  
-- 🧑‍💻 Estudando **HTML, CSS, JavaScript, Python, Linux, Git & GitHub**  
-- 🔧 Interessado em **DevOps, AWS, GitHub Actions e boas práticas de desenvolvimento**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=28&center=true&vCenter=true&width=900&lines=Bem-vindo+ao+meu+perfil!;Estudante+de+Cloud+e+DevOps;Construindo+meu+futuro+na+tecnologia;Sempre+aprendendo+e+evoluindo!" />
+</p>
 
 ---
 
-## 🎖️ Certificações  
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-232F3E?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/54d19f28-13f2-4ed5-bf7e-d9e163f3ebe3/public_url)  
-[![AWS re/Start](https://img.shields.io/badge/AWS%20re/Start-Graduate-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/ead6fd8e-b92b-411a-a626-39a056222f16/public_url)  
+## 👨‍💻 Sobre mim
+
+* 🎓 Formado em **Administração**
+* 💻 Estudante de **Análise e Desenvolvimento de Sistemas**
+* ☁️ Certificado **AWS Cloud Practitioner** e **AWS re/Start**
+* 📚 Estudando: HTML, CSS, JavaScript, Python, Linux, Git & GitHub
+* 🔧 Focado em: Cloud AWS, DevOps, Automação
+* 🤝 Apaixonado por ajudar iniciantes
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" />  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" />  
+## 🎖️ Certificações
+
+<p align="left">
+  <img src="https://images.credly.com/size/340x340/images/2a42cd18-8b0b-4f43-af10-0f5efc74493a/blob.png" width="120" />
+  <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4b6f-9cee-f81a5b0a8aaa/blob.png" width="120" />
+</p>
 
 ---
 
-## 📌 Projetos em Destaque  
-- Exercícios de **Front-end** (HTML, CSS, JS)  
-- Aulas e exercícios em **Python**  
-- Scripts e automações simples  
-- Estudos e experimentos com **AWS**  
+## 🛠️ Tecnologias e Ferramentas
 
-*(Pode adicionar links para cada repo quando quiser)*
-
----
-
-## 📈 Objetivos 2025-2026  
-- ✅ Estudar **Terraform, Docker, Kubernetes, Ansible, Grafana, Zabbix e Prometheus**  
-- ✅ Conquistar a certificação **AWS Solutions Architect – Associate**  
-- ✅ Finalizar minha transição para área tech  
-- ✅ Criar mais projetos práticos no GitHub  
-- ✅ Contribuir com projetos open-source  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70"/>
+</p>
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JefersonMachado&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonMachado&layout=compact&theme=radical)  
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jefe-dev-rs&theme=tokyonight&margin-w=10" />
+</p>
 
 ---
 
-## 🌐 Contato  
-- 📧 [jefeliriodovales2024@gmail.com](mailto:jefeliriodovales2024@gmail.com)  
-- 📧 [jefe.dev.rs@gmail.com](mailto:jefe.dev.rs@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/jefe-machado-dev/)  
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefe-dev-rs&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefe-dev-rs&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-✨ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e seguir minha jornada.  
+## 🔥 Streak Stats
+
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=jefe-dev-rs&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Skill Bars
+
+<p align="center">
+  <img src="https://github-readme-skills.vercel.app/api/skills?languages=html,css,javascript,python,linux,git,github&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Snake Animation (ativável)
+
+<p align="center">
+  <img src="https://github.com/jefe-dev-rs/jefe-dev-rs/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+* 🌐 Projetos Front-end (HTML, CSS, JS)
+* 🐍 Exercícios Python
+* ☁️ Laboratórios AWS
+* ⚙️ Scripts e automações
+* 🔧 Estudos DevOps
+
+---
+
+## 🎯 Objetivos 2025–2026
+
+* Estudar **Terraform, Docker, Kubernetes, Ansible, Grafana, Zabbix, Prometheus**
+* Tirar **AWS Solutions Architect – Associate**
+* Criar projetos reais e contribuir com open-source
+* Consolidar minha transição para tecnologia
+
+---
+
+## 🌐 Contato
+
+📧 Emails:
+
+* **[jefeliriodovales2024@gmail.com](mailto:jefeliriodovales2024@gmail.com)**
+* **[jefe.dev.rs@gmail.com](mailto:jefe.dev.rs@gmail.com)**
+
+💼 LinkedIn: **[https://www.linkedin.com/in/jefe-machado-dev/](https://www.linkedin.com/in/jefe-machado-dev/)**
+
+---
+
+# ✨ Obrigado pela visita! Explore meus repositórios e acompanhe minha evolução 🚀
