@@ -65,10 +65,10 @@
 
 <p align="center">
   <a href="mailto:jefeliriodosvales2024@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jefeliriodosvales2024@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar E-mail" />
+    <img src="https://img.shields.io/badge/Email-jefeliriodosvales2024@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar E-mail" height="28" />
   </a>
   <a href="https://www.linkedin.com/in/jefe-machado-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
 </p>
 
