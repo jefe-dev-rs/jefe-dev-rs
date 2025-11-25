@@ -1,80 +1,82 @@
-<!-- Banner / GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400" />
-</p>
+# 👋 Olá! Eu sou Jeferson Machado
 
-<h1 align="center">👋 Olá! Eu sou Jeferson Machado</h1>
-<p align="center">Cloud | DevOps | Front-end | Automação 🚀</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="450px" />
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-🎓 Formado em **Administração**  
-💻 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
-☁️ Certificado **AWS Cloud Practitioner**  
-🎓 Graduado no programa **AWS re/Start**  
-💡 Em transição de carreira para Cloud / DevOps  
-📚 Atualmente estudando: **HTML, CSS, JavaScript, Git, GitHub, Linux e Python**  
-🔧 Interesse crescente por **Infra como Código, pipelines e automação**  
-🤝 Gosto de compartilhar conhecimento e ajudar novos alunos
+- 🎓 Formado em **Administração**  
+- 💻 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+- ☁️ Certificado **AWS Cloud Practitioner** e **AWS re/Start**  
+- 📚 Estudando: HTML, CSS, JavaScript, Python, Linux, Git & GitHub  
+- 🔧 Focado em **Cloud AWS, DevOps e automação**  
+- 🤝 Gosto de compartilhar conhecimento e ajudar quem está começando  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="60" />
+</p>
 
 ---
 
 ## 🎖️ Certificações
 
-> *Adicione a imagem da sua badge no repositório e depois substitua o link da imagem.*
-
-[![AWS Cloud Practitioner](https://raw.githubusercontent.com/jefe-dev-rs/jefe-dev-rs/main/assets/cloud-practitioner.png)](https://www.credly.com/badges/54d19f28-13f2-4ed5-bf7e-d9e163f3ebe3/public_url)  
-[![AWS re/Start](https://raw.githubusercontent.com/jefe-dev-rs/jefe-dev-rs/main/assets/restart.png)](https://www.credly.com/badges/ead6fd8e-b92b-411a-a626-39a056222f16/public_url)
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Linux" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Git" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
- 
-</div>
-
+<p align="center">
+  <a href="https://www.credly.com/badges/54d19f28-13f2-4ed5-bf7e-d9e163f3ebe3/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/54d19f28-13f2-4ed5-bf7e-d9e163f3ebe3/badge.png" width="130" />
+  </a>
+  <a href="https://www.credly.com/badges/ead6fd8e-b92b-411a-a626-39a056222f16/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/ead6fd8e-b92b-411a-a626-39a056222f16/badge.png" width="130" />
+  </a>
+</p>
 
 ---
 
-## 📈 Objetivos 2025 – 2026
+## 🎯 Objetivos 2025 – 2026
 
-- Estudar **Terraform**, **Docker**, **Kubernetes**, **Ansible**, **Grafana**, **Zabbix**, **Prometheus**  
-- Obter a certificação **AWS Solutions Architect – Associate**  
-- Criar mais projetos práticos aqui no GitHub  
-- Avançar na área de **DevOps / Cloud**  
-- Contribuir com projetos **open-source**
-
----
-
-## 📌 Projetos em Destaque
-
-- Repositórios de estudos de **Front-end**  
-- Exercícios e scripts em **Python**  
-- Anotações e estudos de **Cloud AWS**  
-- Mini automações e testes com **GitHub Actions**
+- Estudar **Terraform, Docker, Kubernetes, Ansible, Grafana, Zabbix, Prometheus**  
+- Conquistar a certificação **AWS Solutions Architect – Associate**  
+- Criar projetos práticos no GitHub  
+- Contribuir com projetos **open-source**  
+- Consolidar minha transição para a **área tecnológica**
 
 ---
 
-## 🌐 Contato
+## 📌 Projetos em destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefe-machado-dev/)
-<br>
-📧 E-mail: **jefeliriodovales2024@gmail.com**  
-📧 E-mail: **jefe.dev.rs@gmail.com**
+- Front-end com **HTML, CSS, JavaScript**  
+- Scripts e estudos em **Python**  
+- Laboratórios e práticas de **Cloud AWS**  
+- Automação e DevOps com **GitHub Actions**
 
 ---
 
-## ✨ Obrigado por visitar meu perfil!
+## 📬 Como me encontrar
 
-> *A evolução é feita de pequenos passos diários — siga comigo nessa jornada! 🚀*
+<p align="center">
+  <a href="mailto:jefeliriodovales2024@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Enviar%20E-mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar E-mail" />
+  </a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/jefe-machado-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
+---
+
+✨ Obrigado por visitar meu perfil!  
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução 🚀
