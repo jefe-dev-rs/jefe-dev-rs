@@ -1,147 +1,105 @@
-<!-- Banner -->
+<!-- Banner GIF de boas-vindas -->
 <p align="center">
   <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">👋 Olá, eu sou o Jeferson!</h1>
-<p align="center">Desenvolvedor Front-end em evolução 🚀 | Amante de JavaScript, HTML, CSS e GitHub</p>
+<h1 align="center">👋 Olá, eu sou o Jeferson Machado</h1>
+<p align="center">Cloud • DevOps • Front-end • Automação</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e atualmente focado em me tornar um excelente desenvolvedor **Front-end**.  
-Estudo diariamente **HTML, CSS, JavaScript, Git e GitHub**, buscando evoluir com consistência.  
-Gosto de ajudar outros alunos em comunidades como a **DIO** e registrar meu progresso no GitHub.
+- 🎓 Formado em **Administração**  
+- 💻 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
+- ☁️ Certificado **AWS Cloud Practitioner** e **AWS re/Start**  
+- 📚 Estudando: HTML, CSS, JavaScript, Python, Linux, Git & GitHub  
+- 🔧 Focado em: **Cloud AWS • DevOps • Automação**  
+- 🤝 Gosto de ajudar e compartilhar conhecimento  
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-</div>
-
----
-
-## 📊 Minhas estatísticas
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefe-dev-rs&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefe-dev-rs&layout=compact&theme=tokyonight" />
-</div>
-
----
-
-## 🐍 Snake Animation
-
-> *A animação funciona automaticamente se seu arquivo `.github/workflows/snake.yml` já estiver configurado.*
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jefe-dev-rs/jefe-dev-rs/output/github-contribution-grid-snake-dark.svg" alt="snake animation">
-</div>
-
----
-
-## 🌐 Onde me encontrar
+## 🎖️ Certificações
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jeferson-machado" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <img src="https://images.credly.com/size/340x340/images/2a42cd18-8b0b-4f43-af10-0f5efc74493a/blob.png" width="120" />
+  <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4b6f-9cee-f81a5b0a8aaa/blob.png" width="120" />
 </p>
-# 🌟 Jeferson Machado
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70"/>
 </p>
 
 ---
 
-## 🏆 GitHub Profile Trophy
+## 🏆 Perfil & Estatísticas
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jefe-dev-rs&theme=tokyonight&margin-w=10" />
 </p>
 
----
-
-## 📈 Estatísticas do GitHub
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefe-dev-rs&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefe-dev-rs&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jefe-dev-rs&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefe-dev-rs&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak & Snake Animation
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=jefe-dev-rs&theme=tokyonight" />
 </p>
 
----
-
-## 🧩 Skill Bars
-
 <p align="center">
-  <img src="https://github-readme-skills.vercel.app/api/skills?languages=html,css,javascript,python,linux,git,github&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jefe-dev-rs/jefe-dev-rs/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jefe-dev-rs/jefe-dev-rs/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/jefe-dev-rs/jefe-dev-rs/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## 🐍 Snake Animation (ativável)
+## 📌 Projetos em Destaque
 
-<p align="center">
-  <img src="https://github.com/jefe-dev-rs/jefe-dev-rs/blob/output/github-contribution-grid-snake.svg" />
-</p>
+- 🌐 Projetos Front-end (HTML, CSS, JS)  
+- 🐍 Estudos e scripts em Python  
+- ☁️ Práticas na AWS  
+- ⚙️ Automação e DevOps  
 
----
-
-## 🚀 Projetos em Destaque
-
-* 🌐 Projetos Front-end (HTML, CSS, JS)
-* 🐍 Exercícios Python
-* ☁️ Laboratórios AWS
-* ⚙️ Scripts e automações
-* 🔧 Estudos DevOps
+*(Em breve adiciono links diretos aos repositórios)*
 
 ---
 
 ## 🎯 Objetivos 2025–2026
 
-* Estudar **Terraform, Docker, Kubernetes, Ansible, Grafana, Zabbix, Prometheus**
-* Tirar **AWS Solutions Architect – Associate**
-* Criar projetos reais e contribuir com open-source
-* Consolidar minha transição para tecnologia
+- Estudar **Terraform, Docker, Kubernetes, Ansible, Grafana, Zabbix, Prometheus**  
+- Tirar a certificação **AWS Solutions Architect – Associate**  
+- Criar projetos práticos e reais  
+- Contribuir com código open-source  
+- Consolidar minha transição para a área de tecnologia  
 
 ---
 
 ## 🌐 Contato
 
-📧 Emails:
+📧 Emails:  
+- jefeliriodovales2024@gmail.com  
+- jefe.dev.rs@gmail.com  
 
-* **[jefeliriodovales2024@gmail.com](mailto:jefeliriodovales2024@gmail.com)**
-* **[jefe.dev.rs@gmail.com](mailto:jefe.dev.rs@gmail.com)**
-
-💼 LinkedIn: **[https://www.linkedin.com/in/jefe-machado-dev/](https://www.linkedin.com/in/jefe-machado-dev/)**
-
----
-
-# ✨ Obrigado pela visita! Explore meus repositórios e acompanhe minha evolução 🚀
+💼 LinkedIn: [https://www.linkedin.com/in/jefe-machado-dev/](https://www.linkedin.com/in/jefe-machado-dev/)  
 
 ---
 
-## 💬 Mensagem final
-
-> *A jornada na programação é feita de prática, consistência e comunidade.  
-Se você está começando como eu, vamos evoluir juntos!*
-
----
-
-### ⭐ Se gostou do meu perfil, deixe uma estrela em algum repositório!
-
+✨ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução 🚀  
