@@ -66,15 +66,17 @@
 
 ## 📬 Como me encontrar
 
+## 📬 Como me encontrar
+
 <p align="center">
   <a href="mailto:jefeliriodovales2024@gmail.com">
     <img src="https://img.shields.io/badge/Email-Enviar%20E-mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar E-mail" />
   </a>
-  <br><br>
   <a href="https://www.linkedin.com/in/jefe-machado-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
 ---
 
