@@ -19,6 +19,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" />
@@ -26,9 +27,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="60" />
+  <a href="https://github.com/jefe-dev-rs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" width="55" alt="GitHub" />
+  </a>
+  <a href="https://aws.amazon.com/pt/certification/certified-cloud-practitioner/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws&logoColor=white" width="55" alt="AWS" />
+  </a>
 </p>
+
 
 ---
 
