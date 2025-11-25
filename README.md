@@ -26,9 +26,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontra meus projetos, estudos e 
 
 ### 🧩 Ícones das Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" />
-
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" />
 
 ## 📌 Projetos em destaque
 
@@ -49,6 +47,14 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontra meus projetos, estudos e 
 * [ ] Finalizar tecnicamente minha transição para área tecnológica
 * [ ] Criar mais projetos práticos no GitHub
 * [ ] Contribuir com projetos open-source
+
+---
+
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=JefersonMachado\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonMachado\&layout=compact\&theme=radical)
 
 ---
 
