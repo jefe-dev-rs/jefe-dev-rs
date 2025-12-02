@@ -12,7 +12,7 @@
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 - ☁️ Certificado **AWS Cloud Practitioner** e **AWS re/Start**  
 - 📚 Estudando: HTML, CSS, JavaScript, Python, Linux, Git & GitHub  
-- 🔧 Focado em **Cloud AWS, DevOps e automação**  
+- 🔧 Focado em **Cloud AWS, DevOps e Automação**  
 - 🤝 Gosto de compartilhar conhecimento e ajudar quem está começando  ## 📬 Como me encontrar
 
 ---
