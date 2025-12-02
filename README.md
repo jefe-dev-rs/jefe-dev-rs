@@ -41,8 +41,6 @@
     <img src="https://images.credly.com/size/340x340/images/bf7e1327-1830-4e36-b5c9-14a52542a9b6/image.png" width="160" alt="AWS re/Start Badge"/>
   </a>
 </div>
-
-
 ---
 
 ## 🎯 Objetivos 2025 – 2026
