@@ -33,17 +33,21 @@
 
 ## 🎖️ Certificações
 
-<p align="center">
-  <a href="https://www.credly.com/badges/54d19f28-13f2-4ed5-bf7e-d9e163f3ebe3/public_url" target="_blank">
-    <img src="./aws-certified-cloud-practitioner.png" height="150" alt="AWS Cloud Practitioner Badge"/>
-  </a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.credly.com/badges/54d19f28-13f2-4ed5-bf7e-d9e163f3ebe3/public_url" target="_blank">
+        <img src="./aws-certified-cloud-practitioner.png" height="150" alt="AWS Cloud Practitioner Badge"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/ead6fd8e-b92b-411a-a626-39a056222f16/public_url" target="_blank">
+        <img src="./aws-re-start-graduate.png" height="150" alt="AWS re/Start Graduate Badge"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.credly.com/badges/ead6fd8e-b92b-411a-a626-39a056222f16/public_url" target="_blank">
-    <img src="./aws-re-start-graduate.png" height="190" alt="AWS re/Start Graduate Badge"/>
-  </a>
-</p>
 
 
 ---
