@@ -32,9 +32,15 @@
 
 ## 🎖️ Certificações
 
-
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Certified-232F3E?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/54d19f28-13f2-4ed5-bf7e-d9e163f3ebe3/public_url)  
-[![AWS re/Start](https://img.shields.io/badge/AWS%20re%2FStart-Graduate-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/ead6fd8e-b92b-411a-a626-39a056222f16/public_url)
+<div align="center">
+  <a href="https://www.credly.com/badges/54d19f28-13f2-4ed5-bf7e-d9e163f3ebe3/public_url" target="_blank" style="margin-right: 20px;">
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="160" alt="AWS Cloud Practitioner Badge"/>
+  </a>
+  
+  <a href="https://www.credly.com/badges/ead6fd8e-b92b-411a-a626-39a056222f16/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/bf7e1327-1830-4e36-b5c9-14a52542a9b6/image.png" width="160" alt="AWS re/Start Badge"/>
+  </a>
+</div>
 
 
 ---
