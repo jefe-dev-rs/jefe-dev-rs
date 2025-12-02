@@ -40,7 +40,7 @@
   </a>
 
   <a href="https://www.credly.com/badges/ead6fd8e-b92b-411a-a626-39a056222f16/public_url" target="_blank">
-    <img src="./aws-re-start-graduate.png" height="150" alt="AWS re/Start Graduate Badge"/>
+    <img src="./aws-re-start-graduate.png" height="180" alt="AWS re/Start Graduate Badge"/>
   </a>
 
 </div>
