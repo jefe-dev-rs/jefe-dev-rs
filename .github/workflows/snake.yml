@@ -1,0 +1,45 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: jefe-dev-rs
+          outputs: dist/snake.svg
+
+      - name: Create or switch to output branch
+        run: |
+          git fetch origin
+          if git rev-parse --verify origin/output >/dev/null 2>&1; then
+            git checkout output
+            git pull origin output
+          else
+            git checkout --orphan output
+            git rm -rf .
+            git commit --allow-empty -m "Initialize output branch"
+            git push origin output
+          fi
+
+      - name: Copy and commit snake file
+        run: |
+          mkdir -p dist
+          cp dist/snake.svg dist/snake.svg || true
+          git add dist/snake.svg
+          git commit -m "Update snake animation" || echo "Nothing to commit"
+          git push origin output
