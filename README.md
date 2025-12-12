@@ -48,6 +48,10 @@
   </tr>
 </table>
 
+---
+
+### 🐍 Minhas contribuições
+![Snake animation](https://raw.githubusercontent.com/jefe-dev-rs/jefe-dev-rs/output/dist/snake.svg)
 
 
 ---
