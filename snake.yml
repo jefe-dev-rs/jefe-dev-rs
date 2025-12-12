@@ -23,24 +23,30 @@ jobs:
           github_user_name: jefe-dev-rs
           outputs: dist/snake.svg
 
-      - name: Create output branch if not exists
+      - name: Show dist content (debug)
         run: |
-          git fetch
-          if git show-ref --verify --quiet refs/heads/output; then
-            echo "output branch already exists"
-          else
-            git checkout --orphan output
-            git rm -rf .
-            git commit --allow-empty -m "Initialize output branch"
-            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/jefe-dev-rs/jefe-dev-rs.git output
-          fi
+          echo "List dist:"
+          ls -la dist || true
 
-      - name: Push Snake Animation
+      - name: Push snake to output branch (force)
+        env:
+          REPO: ${{ github.repository }}
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git fetch
-          git checkout output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Ensure we have latest refs
+          git fetch origin
+          # Force-create/update output branch from current working tree
+          git checkout --force -B output
           mkdir -p dist
-          cp dist/snake.svg dist/snake.svg || echo "File copied"
+          # ensure file exists (if not, this will show it in the logs)
+          if [ ! -f dist/snake.svg ]; then
+            echo "ERROR: dist/snake.svg not found"
+            ls -la dist || true
+            exit 1
+          fi
           git add dist/snake.svg
           git commit -m "Update snake animation" || echo "Nothing to commit"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/jefe-dev-rs/jefe-dev-rs.git output
+          git push https://x-access-token:${TOKEN}@github.com/${REPO}.git output --force
+
