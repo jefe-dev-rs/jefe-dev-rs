@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: jefe-dev-rs
+          github_user_name: chefe-desenvolvedor-rs
           outputs: dist/snake.svg
 
       - name: Push Snake Animation
