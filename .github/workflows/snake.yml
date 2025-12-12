@@ -30,7 +30,12 @@ jobs:
             exit 1
           fi
 
-      - name: Configure Git for commits
+      - name: Reset workspace to clean state
+        run: |
+          git reset --hard HEAD
+          git clean -fd
+
+      - name: Configure Git author
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -46,7 +51,7 @@ jobs:
           else
             git checkout --orphan output
             git rm -rf .
-            git commit --allow-empty -m "Init output branch"
+            git commit --allow-empty -m "Initialize output branch"
             git push origin output
           fi
 
@@ -55,17 +60,16 @@ jobs:
           mkdir -p dist
           chmod -R 777 dist
 
-      - name: Copy generated snake to output branch
+      - name: Copy generated snake into output branch
         run: |
-          cp dist/snake.svg dist/snake_modified.svg
-          mv dist/snake_modified.svg dist/snake.svg
+          cp -f dist/snake.svg dist/snake.svg
 
-      - name: Apply custom background
+      - name: Apply custom background color (semi-transparent gray)
         run: |
           chmod 666 dist/snake.svg
           sed -i 's/<svg/<svg style="background-color:rgba(200,200,200,0.4)"/' dist/snake.svg
 
-      - name: Commit and push
+      - name: Commit and push animation
         run: |
           git add dist/snake.svg
           git commit -m "Update snake animation" || echo "Nothing to commit"
