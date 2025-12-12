@@ -30,7 +30,16 @@ jobs:
             exit 1
           fi
 
-      - name: Reset workspace to clean state
+      - name: Fix permissions BEFORE cleaning
+        run: |
+          chmod -R 777 dist || true
+
+      - name: Force remove old dist folder before switching branches
+        run: |
+          rm -rf dist || true
+          mkdir dist
+
+      - name: Reset workspace cleanly
         run: |
           git reset --hard HEAD
           git clean -fd
@@ -55,16 +64,12 @@ jobs:
             git push origin output
           fi
 
-      - name: Fix permissions for dist folder
+      - name: Copy new snake.svg into output branch
         run: |
           mkdir -p dist
-          chmod -R 777 dist
+          cp ../dist/snake.svg dist/snake.svg || cp dist/snake.svg dist/snake.svg
 
-      - name: Copy generated snake into output branch
-        run: |
-          cp -f dist/snake.svg dist/snake.svg
-
-      - name: Apply custom background color (semi-transparent gray)
+      - name: Apply custom background
         run: |
           chmod 666 dist/snake.svg
           sed -i 's/<svg/<svg style="background-color:rgba(200,200,200,0.4)"/' dist/snake.svg
