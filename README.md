@@ -23,7 +23,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,git,github,aws" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,git,github,aws,docker" />
   </a>
 </div>
 
