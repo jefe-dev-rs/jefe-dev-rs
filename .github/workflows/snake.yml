@@ -23,6 +23,10 @@ jobs:
           github_user_name: jefe-dev-rs
           outputs: dist/snake.svg
 
+      - name: Apply custom background to snake
+        run: |
+          sed -i 's/<svg/<svg style="background-color:rgba(200,200,200,0.4)"/' dist/snake.svg
+
       - name: Configure Git author
         run: |
           git config user.name "github-actions[bot]"
@@ -43,12 +47,7 @@ jobs:
         run: |
           git checkout output
           mkdir -p dist
-          cp dist/snake.svg dist/snake.svg || true
+          cp dist/snake.svg dist/snake.svg
           git add dist/snake.svg
           git commit -m "Update snake animation" || echo "Nothing to commit"
           git push origin output
-          
-      - name: Apply custom background to snake
-        run: |
-          sed -i 's/<svg/<svg style="background-color:rgba(200,200,200,0.4)"/' dist/snake.svg
-
