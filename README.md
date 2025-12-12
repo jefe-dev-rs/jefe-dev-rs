@@ -11,9 +11,9 @@
 - 🎓 Formado em **Administração**  
 - 💻 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**  
 - ☁️ Certificado **AWS Cloud Practitioner** e **AWS re/Start**  
-- 📚 Estudando: HTML, CSS, JavaScript, Python, Linux, Git & GitHub  
+- 📚 Estudando: Python, Linux, Docker, Git & GitHub  
 - 🔧 Focado em **Cloud AWS, DevOps e Automação**  
-- 🤝 Gosto de compartilhar conhecimento e ajudar quem está começando
+- 🤝 Me Preparando para a AWS Certified Solutions Architect - Associate
 
 ---
 
@@ -62,7 +62,7 @@
 
 ## 🎯 Objetivos 2025 – 2026
 
-- Estudar **Terraform, Docker, Kubernetes, Ansible, Grafana, Zabbix, Prometheus**  
+- Estudar **Terraform, Kubernetes, Ansible, Grafana, Zabbix, Prometheus**  
 - Conquistar a certificação **AWS Solutions Architect – Associate**  
 - Criar projetos práticos no GitHub  
 - Contribuir com projetos **open-source**  
