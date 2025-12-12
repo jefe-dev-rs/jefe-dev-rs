@@ -12,7 +12,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
@@ -23,31 +23,50 @@ jobs:
           github_user_name: jefe-dev-rs
           outputs: dist/snake.svg
 
-      - name: Apply custom background to snake
+      - name: Ensure snake.svg exists
         run: |
-          sed -i 's/<svg/<svg style="background-color:rgba(200,200,200,0.4)"/' dist/snake.svg
+          if [ ! -f dist/snake.svg ]; then
+            echo "ERROR: dist/snake.svg not found"
+            exit 1
+          fi
 
-      - name: Configure Git author
+      - name: Configure Git for commits
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Create output branch if needed
+      - name: Fetch branches
+        run: git fetch origin
+
+      - name: Create or checkout output branch
         run: |
-          if git show-ref --quiet refs/heads/output; then
-            echo "Branch exists"
+          if git ls-remote --exit-code --heads origin output; then
+            git checkout output
+            git pull origin output
           else
             git checkout --orphan output
             git rm -rf .
-            git commit --allow-empty -m "Initialize output branch"
+            git commit --allow-empty -m "Init output branch"
             git push origin output
           fi
 
-      - name: Commit and push snake file
+      - name: Fix permissions for dist folder
         run: |
-          git checkout output
           mkdir -p dist
-          cp dist/snake.svg dist/snake.svg
+          chmod -R 777 dist
+
+      - name: Copy generated snake to output branch
+        run: |
+          cp dist/snake.svg dist/snake_modified.svg
+          mv dist/snake_modified.svg dist/snake.svg
+
+      - name: Apply custom background
+        run: |
+          chmod 666 dist/snake.svg
+          sed -i 's/<svg/<svg style="background-color:rgba(200,200,200,0.4)"/' dist/snake.svg
+
+      - name: Commit and push
+        run: |
           git add dist/snake.svg
           git commit -m "Update snake animation" || echo "Nothing to commit"
           git push origin output
