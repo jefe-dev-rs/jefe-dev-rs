@@ -12,7 +12,7 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
@@ -28,14 +28,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Fetch branches
-        run: git fetch origin
-
-      - name: Create or checkout output branch
+      - name: Create output branch if needed
         run: |
-          if git ls-remote --exit-code --heads origin output; then
-            git checkout output
-            git pull origin output
+          if git show-ref --quiet refs/heads/output; then
+            echo "Branch exists"
           else
             git checkout --orphan output
             git rm -rf .
@@ -43,18 +39,11 @@ jobs:
             git push origin output
           fi
 
-      - name: Move generated snake to output branch
+      - name: Commit and push snake file
         run: |
-          rm -rf dist
+          git checkout output
           mkdir -p dist
-          cp $GITHUB_WORKSPACE/dist/snake.svg dist/snake.svg
-
-      - name: Apply custom background (gray transparent)
-        run: |
-          sed -i 's/<svg/<svg style="background-color:rgba(200,200,200,0.4)"/' dist/snake.svg
-
-      - name: Commit and push updated snake
-        run: |
+          cp dist/snake.svg dist/snake.svg || true
           git add dist/snake.svg
           git commit -m "Update snake animation" || echo "Nothing to commit"
           git push origin output
