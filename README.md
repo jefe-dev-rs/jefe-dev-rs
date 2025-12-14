@@ -1,6 +1,8 @@
-# <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Olá!+👋;Eu+sou+o+Jeferson+Machado;Cloud+Practitioner+Certified;Em+constante+aprendizado" />
-</h1>
+# <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=34&duration=4000&pause=1200&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=👋+Olá!;🙋‍♂️+Eu+sou+Jeferson+Machado;☁️+AWS+Cloud+Practitioner+Certified;🚀+Em+constante+aprendizado" />
+
+</div>
 
 
 <p align="center">
